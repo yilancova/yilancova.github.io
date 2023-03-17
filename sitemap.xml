@@ -22,6 +22,14 @@
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/last-week/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/git/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
