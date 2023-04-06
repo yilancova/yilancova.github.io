@@ -5,12 +5,41 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Пост о прошедшей неделе, апрель</title>
+      <link>https://example.com/post/last-week_2/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week_2/</guid>
+      <description>&lt;h2 id=&#34;моя-первая-неделя-апреля&#34;&gt;Моя первая неделя апреля&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе в будние дни я училась в университете. На лекциях мы проходили много интересного материала. На выходных я встретилась с друзьями и мы гуляли в парке.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX.</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX.&lt;/h2&gt;
+&lt;p&gt;LaTEX представляет собой инструмент для создания профессиональных документов. В его основе лежит парадигма редактирования WYSIWYM, то есть от пользователя требуется сосредоточиться только на содержимом документа, оставив его форматирование программе. Вместо ручного распределения текста по странице, как это делается в Microsoft Word или LibreOffice Writer, можно просто его вводить, позволив LaTeX заняться остальным.&lt;/p&gt;
+&lt;p&gt;Примеры языков разметки:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Язык разметки гипертекста HTML&lt;/li&gt;
+&lt;li&gt;Язык разметки XML&lt;/li&gt;
+&lt;li&gt;Язык разметки векторной графики SVG&lt;/li&gt;
+&lt;li&gt;Язык разметки текста и формил TEX&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Зачем нужен LaTeX?&lt;/p&gt;
+&lt;p&gt;Этот инструмент используется повсеместно для создания научных документов, написания книг, а также многих других форм публикаций. Он позволяет не только создавать красиво оформленные документы, но также дает пользователям возможность очень быстро реализовывать такие сложные элементы печатного набора, как математические выражения, таблицы, ссылки и библиографии, получая согласованную разметку по всем разделам.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост о прошедшей неделе, март</title>
@@ -218,7 +247,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-175843692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-154938672&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -228,7 +257,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-175843692&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-154938672&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
