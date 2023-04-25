@@ -5,12 +5,22 @@
     <link>https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
       <atom:link href="https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <description>студент</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>студент</title>
       <link>https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
     </image>
+    
+    <item>
+      <title>Пост о прошедшей неделе, конец апреля</title>
+      <link>https://example.com/post/last-week_3/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week_3/</guid>
+      <description>&lt;h2 id=&#34;моя-первая-неделя-апреля&#34;&gt;Моя первая неделя апреля&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я ела пельмени с кетчупом. Это действительно изысканное блюдо вызывает теплоту в душе, каждый раз когда я думаю о нем. А еще я ходила в университет, но это не так уж и интересно&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост о прошедшей неделе, апрель</title>
