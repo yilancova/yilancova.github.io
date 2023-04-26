@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>студент | Academic</title>
-    <link>https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
-      <atom:link href="https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yilancova.github.io/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
+      <atom:link href="https://yilancova.github.io/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <description>студент</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yilancova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>студент</title>
-      <link>https://example.com/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
+      <link>https://yilancova.github.io/tag/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82/</link>
     </image>
     
     <item>
       <title>Пост о прошедшей неделе, конец апреля</title>
-      <link>https://example.com/post/last-week_3/</link>
+      <link>https://yilancova.github.io/post/last-week_3/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week_3/</guid>
+      <guid>https://yilancova.github.io/post/last-week_3/</guid>
       <description>&lt;h2 id=&#34;моя-первая-неделя-апреля&#34;&gt;Моя первая неделя апреля&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я ела пельмени с кетчупом. Это действительно изысканное блюдо вызывает теплоту в душе, каждый раз когда я думаю о нем. А еще я ходила в университет, но это не так уж и интересно&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Пост о прошедшей неделе, апрель</title>
-      <link>https://example.com/post/last-week_2/</link>
+      <link>https://yilancova.github.io/post/last-week_2/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week_2/</guid>
+      <guid>https://yilancova.github.io/post/last-week_2/</guid>
       <description>&lt;h2 id=&#34;моя-первая-неделя-апреля&#34;&gt;Моя первая неделя апреля&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе в будние дни я училась в университете. На лекциях мы проходили много интересного материала. На выходных я встретилась с друзьями и мы гуляли в парке.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Языки разметки. LaTeX.</title>
-      <link>https://example.com/post/latex/</link>
+      <link>https://yilancova.github.io/post/latex/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/latex/</guid>
+      <guid>https://yilancova.github.io/post/latex/</guid>
       <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX.&lt;/h2&gt;
 &lt;p&gt;LaTEX представляет собой инструмент для создания профессиональных документов. В его основе лежит парадигма редактирования WYSIWYM, то есть от пользователя требуется сосредоточиться только на содержимом документа, оставив его форматирование программе. Вместо ручного распределения текста по странице, как это делается в Microsoft Word или LibreOffice Writer, можно просто его вводить, позволив LaTeX заняться остальным.&lt;/p&gt;
 &lt;p&gt;Примеры языков разметки:&lt;/p&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Пост о прошедшей неделе, март</title>
-      <link>https://example.com/post/last-week/</link>
+      <link>https://yilancova.github.io/post/last-week/</link>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
+      <guid>https://yilancova.github.io/post/last-week/</guid>
       <description>&lt;h2 id=&#34;моя-обычная-неделя&#34;&gt;Моя обычная неделя&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе в будние дни я училась в университете. На лекциях мы проходили много интересного материала. На выходных я встретилась с друзьями и мы гуляли в парке.&lt;/p&gt;
 </description>
